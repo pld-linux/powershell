@@ -22,11 +22,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Terminal Emulater for the X11 Window System. Features:
 - Full GNOME support.
 - Support for many terminal windows in a single window, separated by
-  "notebook"   tabs.
-- Menu options to open a new tab with various programs running, including
-  bash,   tcsh, pine, and emacs.
+  "notebook" tabs.
+- Menu options to open a new tab with various programs running,
+  including bash, tcsh, pine, and emacs.
 - Ability to change menu options through ~/.pshellrc as well as the
-  Preferences   dialog box.
+  Preferences dialog box.
 - Ability to switch terms with Ctrl-1, Ctrl-2, etc...
 - Support for transparency, pixmap backgrounds, etc...
 - Full support for color.
@@ -36,9 +36,10 @@ Emulator Terminala dla systemu X11 Window. Mo¿liwo¶ci:
 - Pe³ne wsparcie dla GNOME
 - Wsparcie dla wielu okien terminali w jednym oknie XWindow
 - Opcje menu by otworzyæ programy typi bash, tcsh, pine, emacs.
-- Mo¿liwo¶æ zmiany opcji menu poprzez plik konfiguracyjny jak i Ustawienia
-- Mo¿liwo¶æ prze³±czania siê pomiêdzy terminalami z klawiatury z Ctrl-1,
-  Ctrl-2
+- Mo¿liwo¶æ zmiany opcji menu poprzez plik konfiguracyjny jak i
+  Ustawienia
+- Mo¿liwo¶æ prze³±czania siê pomiêdzy terminalami z klawiatury z
+  Ctrl-1, Ctrl-2
 - Wsparcie dla prze¼roczysto¶ci, obrazków t³a itp
 - Pe³ne wsparcie dla kolorów
 
