@@ -1,13 +1,13 @@
 Summary:	X11 Terminal Emulator
 Summary(pl):	Emulator Terminala X11
 Name:		powershell
-Version:	0.8
+Version:	0.67
 Release:	1
 Epoch:		1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://powershell.sourceforge.net/download/%{name}-%{version}.tar.gz
-# Source0-md5:	25380001352cef5f61e627fabe7465be
+# Source0-md5:	e97f0ef566adf895013f534677b6c168
 URL:		http://powershell.sourceforge.net/
 BuildRequires:	gnome-libs => 1.0.13
 BuildRequires:	gtk+ >= 1.2.1
