@@ -6,8 +6,6 @@ Release:	1
 Epoch:		1
 License:	GPL
 Group:		X11/Applications
-Group(de):	X11/Applikationen
-Group(pl):	X11/Aplikacje
 Source0:	http://powershell.pdq.net/download/%{name}-%{version}.tar.gz
 URL:		http://rush.baked.net/~spong/powershell/
 BuildRequires:	gnome-libs => 1.0.13
