@@ -6,8 +6,8 @@ Release:	1
 Epoch:		1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://powershell.pdq.net/download/%{name}-%{version}.tar.gz
-URL:		http://rush.baked.net/~spong/powershell/
+Source0:	http://powershell.sourceforge.net/download/%{name}-%{version}.tar.gz
+URL:		http://powershell.sourceforge.net/
 BuildRequires:	gnome-libs => 1.0.13
 BuildRequires:	gtk+ >= 1.2.1
 BuildRequires:	imlib-devel
