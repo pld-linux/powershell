@@ -11,13 +11,12 @@ URL:		http://rush.baked.net/~spong/powershell/
 BuildRequires:	gnome-libs => 1.0.13
 BuildRequires:	gtk+ >= 1.2.1
 BuildRequires:	imlib-devel
-
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_sysconfdir	/etc/X11/GNOME
 
 %description
-Terminal Emulater for the X11 Window System. Features:
+Terminal Emulator for the X11 Window System. Features:
 - Full GNOME support.
 - Support for many terminal windows in a single window, separated by
   "notebook" tabs.
@@ -42,7 +41,7 @@ Emulator Terminala dla systemu X11 Window. Mo¿liwo¶ci:
 - Pe³ne wsparcie dla kolorów
 
 %prep
-%setup  -q
+%setup -q
 
 %build
 %configure2_13
