@@ -33,7 +33,7 @@ Terminal Emulator for the X11 Window System. Features:
 Emulator Terminala dla systemu X11 Window. Mo¿liwo¶ci:
 - Pe³ne wsparcie dla GNOME
 - Wsparcie dla wielu okien terminali w jednym oknie XWindow
-- Opcje menu by otworzyæ programy typi bash, tcsh, pine, emacs.
+- Opcje menu by otworzyæ programy typu bash, tcsh, pine, emacs.
 - Mo¿liwo¶æ zmiany opcji menu poprzez plik konfiguracyjny jak i
   Ustawienia
 - Mo¿liwo¶æ prze³±czania siê pomiêdzy terminalami z klawiatury z
