@@ -48,7 +48,7 @@ Emulator Terminala dla systemu X11 Window. Mo¿liwo¶ci:
 %setup  -q
 
 %build
-%configure
+%configure2_13
 %{__make}
 
 %install
