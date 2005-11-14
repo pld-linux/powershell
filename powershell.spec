@@ -38,7 +38,7 @@ Emulator Terminala dla systemu X11 Window. Mo¿liwo¶ci:
   Ustawienia
 - Mo¿liwo¶æ prze³±czania siê pomiêdzy terminalami z klawiatury z
   Ctrl-1, Ctrl-2
-- Wsparcie dla prze¼roczysto¶ci, obrazków t³a itp
+- Wsparcie dla przezroczysto¶ci, obrazków t³a itp
 - Pe³ne wsparcie dla kolorów
 
 %prep
