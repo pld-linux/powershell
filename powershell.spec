@@ -1,5 +1,5 @@
 Summary:	X11 Terminal Emulator
-Summary(pl):	Emulator Terminala X11
+Summary(pl.UTF-8):   Emulator Terminala X11
 Name:		powershell
 Version:	0.67
 Release:	1
@@ -29,17 +29,17 @@ Terminal Emulator for the X11 Window System. Features:
 - Support for transparency, pixmap backgrounds, etc...
 - Full support for color.
 
-%description -l pl
-Emulator Terminala dla systemu X11 Window. Mo¿liwo¶ci:
-- Pe³ne wsparcie dla GNOME
+%description -l pl.UTF-8
+Emulator Terminala dla systemu X11 Window. MoÅ¼liwoÅ›ci:
+- PeÅ‚ne wsparcie dla GNOME
 - Wsparcie dla wielu okien terminali w jednym oknie XWindow
-- Opcje menu by otworzyæ programy typu bash, tcsh, pine, emacs.
-- Mo¿liwo¶æ zmiany opcji menu poprzez plik konfiguracyjny jak i
+- Opcje menu by otworzyÄ‡ programy typu bash, tcsh, pine, emacs.
+- MoÅ¼liwoÅ›Ä‡ zmiany opcji menu poprzez plik konfiguracyjny jak i
   Ustawienia
-- Mo¿liwo¶æ prze³±czania siê pomiêdzy terminalami z klawiatury z
+- MoÅ¼liwoÅ›Ä‡ przeÅ‚Ä…czania siÄ™ pomiÄ™dzy terminalami z klawiatury z
   Ctrl-1, Ctrl-2
-- Wsparcie dla przezroczysto¶ci, obrazków t³a itp
-- Pe³ne wsparcie dla kolorów
+- Wsparcie dla przezroczystoÅ›ci, obrazkÃ³w tÅ‚a itp
+- PeÅ‚ne wsparcie dla kolorÃ³w
 
 %prep
 %setup -q
