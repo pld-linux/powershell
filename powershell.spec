@@ -1,5 +1,5 @@
 Summary:	X11 Terminal Emulator
-Summary(pl.UTF-8):   Emulator Terminala X11
+Summary(pl.UTF-8):	Emulator Terminala X11
 Name:		powershell
 Version:	0.67
 Release:	1
